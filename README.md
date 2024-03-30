@@ -2,7 +2,7 @@
 ## 📊 GitHub Stats:
 <div style='display:flex;justify-content:space-between;'>
 
-[![Bimlendu's GitHub stats](https://statsgithub-readme-stats.vercel.app/api?username=bim240&include_all_commits=true&hide_title=true&theme=highcontrast&show_icons=true)](https://github.com/bim240)
+[![Bimlendu's GitHub stats](https://statsgithub-readme-stats.vercel.app/api?username=bim240&include_all_commits=true&hide_title=true&theme=highcontrast&show_icons=true&card_width=400)](https://github.com/bim240)
 
 [![Bimlendu's GitHub stats](https://statsgithub-readme-stats.vercel.app/api/top-langs?username=bim240&theme=highcontrast&)](https://github.com/bim240)
 
