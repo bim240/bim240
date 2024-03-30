@@ -1,10 +1,13 @@
 
 ## 📊 GitHub Stats:
-[![Bimlendu's GitHub stats](https://statsgithub-readme-stats.vercel.app/api?username=bim240&include_all_commits=true&hide_title=true&theme=highcontrast)](https://github.com/bim240)
+<div style='display:flex;justify-content:space-between;'>
+
+[![Bimlendu's GitHub stats](https://statsgithub-readme-stats.vercel.app/api?username=bim240&include_all_commits=true&hide_title=true&theme=highcontrast&show_icons=true)](https://github.com/bim240)
 
 [![Bimlendu's GitHub stats](https://statsgithub-readme-stats.vercel.app/api/top-langs?username=bim240&theme=highcontrast&)](https://github.com/bim240)
 
 
+</div>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=bim240&theme=alduin&no-frame=false&no-bg=false&margin-w=4)
