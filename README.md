@@ -1,9 +1,8 @@
 
-# 📊 GitHub Stats:
+## 📊 GitHub Stats:
 [![Bimlendu's GitHub stats](https://statsgithub-readme-stats.vercel.app/api?username=bim240&include_all_commits=true&hide_title=true&theme=highcontrast)](https://github.com/bim240)
 
-# Most Used Language
-[![Bimlendu's GitHub stats](https://statsgithub-readme-stats.vercel.app/api/top-langs?username=bim240&hide_title=true&theme=highcontrast&)](https://github.com/bim240)
+[![Bimlendu's GitHub stats](https://statsgithub-readme-stats.vercel.app/api/top-langs?username=bim240&theme=highcontrast&)](https://github.com/bim240)
 
 
 
