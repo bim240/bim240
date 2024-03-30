@@ -1,6 +1,6 @@
 
 ## 📊 GitHub Stats:
-<div style='display:flex;justify-content:space-between;'>
+<div style='display:flex;justify-content:space-between;border: 1px solid green'>
 
 [![Bimlendu's GitHub stats](https://statsgithub-readme-stats.vercel.app/api?username=bim240&include_all_commits=true&hide_title=true&theme=highcontrast&show_icons=true&card_width=400)](https://github.com/bim240)
 
